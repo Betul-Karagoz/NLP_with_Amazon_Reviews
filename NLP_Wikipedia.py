@@ -1,18 +1,19 @@
 
 #################################################
-# WIKI 1 - Metin önişleme ve Görselleştirme (NLP - Text Preprocessing & Text Visualization)
+# NLP - Text Preprocessing & Text Visualization
 #################################################
 
 ###################f##############################
-# Problemin Tanımı
+# Description of the Problem
 #################################################
-# Wikipedia örnek datasından metin ön işleme, temizleme işlemleri gerçekleştirip, görselleştirme çalışmaları yapmak.
+# Performing text pre-processing, cleaning operations and visualization studies from Wikipedia sample data.
+
 
 #################################################
 # Data Set Story
 #################################################
-# Wikipedia datasından alınmış metinleri içermektedir.
-#################################################
+# Contains text taken from Wikipedia data.
+
 
 ############################
 # Required Libraries and settings
